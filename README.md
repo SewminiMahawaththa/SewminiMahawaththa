@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Sewmini Mahawaththa</h1>
-<h3 align="center">Undergraduate in SLIIT @SriLanka</h3>
+<h1>Hi 👋, I'm Sewmini Mahawaththa</h1>
+<hr>
+<h3>Undergraduate in SLIIT @SriLanka</h3>
+<hr>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21308598&label=Profile%20views&color=0e75b6&style=flat" alt="it21308598" /> </p>
