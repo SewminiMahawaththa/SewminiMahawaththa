@@ -29,7 +29,6 @@
 
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21308598&show_icons=true&locale=en&layout=compact" alt="sewminiMahawaththa" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21308598&show_icons=true&locale=en&layout=compact" alt="sewminiMahawaththa" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=it21308598&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
