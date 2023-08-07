@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<hr>
+
 - 🌱 I’m currently learning **Software Engineering @SLIIT**
 
 - 💬 Ask me about **Android, MERN**
@@ -19,8 +21,9 @@
 
 - ⚡ Fun fact **I love to listening to music**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<hr>
+
+<h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3>
 <a href="https://linkedin.com/in/sewmini-mahawaththa-it21308598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmini mahawaththa" height="30" width="40" /></a>
 <a href="https://instagram.com/sewminimahawaththa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sewminimahawaththa" height="30" width="40" /></a>
 </p>
