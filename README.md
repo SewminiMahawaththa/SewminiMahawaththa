@@ -1,4 +1,4 @@
-![MasterHead](https://embed-ssl.wistia.com/deliveries/0fcc29ab1fca704e95686a6bdf0cc0ef.webp?image_crop_resized=960x540)
+
 <h1 align="center">Hi 👋, I'm Sewmini Mahawaththa</h1>
 <h3 align="center">Undergraduate in SLIIT @SriLanka</h3>
 
