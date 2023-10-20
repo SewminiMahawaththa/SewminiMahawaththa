@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sewmini Mahawaththa</h1>
 <div align="center"> <img src="github banner.png"> </div>
 <h3 align="center">Undergraduate in SLIIT @SriLanka</h3>
-
+<img align="right" alt="Coding" width="400" src="coding_gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sewminimahawaththa&label=Profile%20views&color=0e75b6&style=flat" alt="sewminimahawaththa" /> </p>
 
 - 🔭 I’m currently working on **Sri Lanka Telecom**
