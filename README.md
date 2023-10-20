@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sewmini Mahawaththa</h1>
+<h1 align="center"> Hi 👋, I'm Sewmini Mahawaththa </h1>
 <div align="center"> <img src="github banner.png"> </div>
 <h3 align="center">Undergraduate in SLIIT @SriLanka</h3>
 <img align="right" alt="Coding" width="300" src="coding_gif.gif">
