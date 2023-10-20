@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sewmini mahawaththa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmini mahawaththa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sewmini-mahawaththa-it21308598/?originalSubdomain=lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmini mahawaththa" height="30" width="40" /></a>
 <a href="https://instagram.com/sewminimahawaththa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sewminimahawaththa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sewlens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sewlens" height="30" width="40" /></a>
 </p>
