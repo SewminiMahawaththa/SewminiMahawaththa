@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **madushikamahawaththa8@gmail.com**
 
-- 📄 Know about my experiences [SewminiMahawaththaResume](SewminiMahawaththaResume)
+- 📄 Know about my experiences [SewminiMahawaththa.pdf](SewminiMahawaththaResume)
 
 - ⚡ Fun fact **I love to listening to music**
 
