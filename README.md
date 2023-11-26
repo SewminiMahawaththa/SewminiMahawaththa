@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Sri Lanka Telecom**
 
-- 🌱 I’m currently learning **Software Engineering @SLIIT**
+- 🌱 I’m currently learning **Information Technology @SLIIT**
 
 - 👯 I’m looking to collaborate on **Polonnaruwa Citizen Database**
 
