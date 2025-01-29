@@ -4,13 +4,11 @@
 <img align="right" alt="Coding" width="300" src="coding_gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sewminimahawaththa&label=Profile%20views&color=0e75b6&style=flat" alt="sewminimahawaththa" /> </p>
 
-- 🔭 I’m currently working on **Sri Lanka Telecom**
+- 🔭 I’m currently working on **Printcare PLC**
 
 - 🌱 I’m currently learning **Information Technology @SLIIT**
 
-- 👯 I’m looking to collaborate on **Polonnaruwa Citizen Database**
-
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **Android, MERN, Figma**
 
 - 📫 How to reach me **madushikamahawaththa8@gmail.com**
 
